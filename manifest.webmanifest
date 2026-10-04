@@ -1,0 +1,16 @@
+{
+  "name": "Dino Dinner Dash",
+  "short_name": "Dino Dash",
+  "description": "A gentle platformer for little learners: help the naughty dino family and open the gates by answering letter, number, shape and color questions.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "background_color": "#2b1b4e",
+  "theme_color": "#2b1b4e",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
